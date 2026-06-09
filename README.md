@@ -153,11 +153,6 @@ rag-chatbot/
 | DELETE | `/api/documents/clear` | Clear all documents |
 | POST | `/api/chat/ask` | Ask a question |
 
-## Environment Variables
-
-| Variable | Description |
-|----------|-------------|
-| `GEMINI_API_KEY` | Your Google Gemini API key from aistudio.google.com |
 
 ## Author
 
